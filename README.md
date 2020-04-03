@@ -9,23 +9,23 @@
 
 ### to define DOM elements, put your classes according to such markup as:
 
-<div class="info" >
-<div class="info-header">
-  <div class="info-header-tab">Treatment</div>
-  <div class="info-header-tab">Relaxation</div>
-  <div class="info-header-tab">Nature</div>
-  <div class="info-header-tab">Yoga</div>
-</div>
-<div class="info-tabcontent fade">
-  //content
-</div>
-<div class="info-tabcontent fade">
-  //content
-</div>
-<div class="info-tabcontent fade">
-  //content
-</div>
-<div class="info-tabcontent fade">
-  //content
-</div>
-</div>
+    <div class="info" >
+      <div class="info-header">
+        <div class="info-header-tab">Treatment</div>
+        <div class="info-header-tab">Relaxation</div>
+        <div class="info-header-tab">Nature</div>
+        <div class="info-header-tab">Yoga</div>
+      </div>
+      <div class="info-tabcontent fade">
+        //content
+      </div>
+      <div class="info-tabcontent fade">
+        //content
+      </div>
+      <div class="info-tabcontent fade">
+        //content
+      </div>
+      <div class="info-tabcontent fade">
+        //content
+      </div>
+    </div>
