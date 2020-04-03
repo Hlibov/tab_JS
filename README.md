@@ -9,7 +9,7 @@
 
 ### to define DOM elements, put your classes according to such markup as:
 
-    <div class="info" >
+    <div class="***info***" >
 				<div class="info-header">
 					<div class="info-header-tab">Treatment</div>
 					<div class="info-header-tab">Relaxation</div>
