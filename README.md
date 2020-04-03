@@ -31,5 +31,5 @@
     </div>
 
 ## very important! 
-*** on class ".hide" give property display: none;***
-*** on class ".show" give property display: block;***
+***on class ".hide" give property display: none;***
+***on class ".show" give property display: block;***
