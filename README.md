@@ -2,10 +2,11 @@
 ***simple tabs on pure JS***
 
 ### such variables are needed here:
-
-***let tab = document.querySelectorAll('.info-header-tab'),***
-***info = document.querySelector('.info-header'),***
-***tabContent = document.querySelectorAll('.info-tabcontent');***
+```js
+let tab = document.querySelectorAll('.info-header-tab'),
+    info = document.querySelector('.info-header'),
+    tabContent = document.querySelectorAll('.info-tabcontent');
+```
 
 ### to define DOM elements, put your classes according to such markup as:
 
