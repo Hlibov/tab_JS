@@ -1,6 +1,6 @@
-let tab = document.querySelectorAll('.info-header-tab'),
-  info = document.querySelector('.info-header'),
-  tabContent = document.querySelectorAll('.info-tabcontent');
+// let tab = document.querySelectorAll('.info-header-tab'),
+//   info = document.querySelector('.info-header'),
+//   tabContent = document.querySelectorAll('.info-tabcontent');
 
 
 // событие загрузки DOM дерева запускает функцию выполнения программы табы
