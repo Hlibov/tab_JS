@@ -16,16 +16,20 @@
         <div class="info-header-tab">Nature</div>
         <div class="info-header-tab">Yoga</div>
       </div>
-      <div class="info-tabcontent fade">
+      <div class="info-tabcontent">
         //content
       </div>
-      <div class="info-tabcontent fade">
+      <div class="info-tabcontent">
         //content
       </div>
-      <div class="info-tabcontent fade">
+      <div class="info-tabcontent">
         //content
       </div>
-      <div class="info-tabcontent fade">
+      <div class="info-tabcontent">
         //content
       </div>
     </div>
+
+## very important! 
+*** on class ".hide" give property display: none;***
+*** on class ".show" give property display: block;***
