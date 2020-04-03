@@ -9,6 +9,7 @@
 
 ### to define DOM elements, put your classes according to such markup as:
 
+```html
     <div class="info" >
       <div class="info-header">
         <div class="info-header-tab">Treatment</div>
@@ -29,7 +30,7 @@
         //content
       </div>
     </div>
-
+```
 ## very important! 
-***on class ".hide" give property display: none;***
-***on class ".show" give property display: block;***
+***on class ".hide" give property   <i>display: none;</i>***  <br>
+***on class ".show" give property   <i>display: block;</i>***
